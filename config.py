@@ -1,1 +1,1 @@
-weather_api_key="CitiPyWeatherAPI"
+New_Weather_Key_API="42a987fcc8780ed6c0633150d301aaf8"
